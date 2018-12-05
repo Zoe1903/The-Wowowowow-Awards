@@ -1,0 +1,25 @@
+.blue { 
+     color:blue;
+     font-family:'Kumar One Outline', cursive;
+}
+p {
+    font-size:30px;
+    font-family:'Kumar One Outline', cursive;
+    color: blue;
+}
+body {
+    background-image:url(https://66.media.tumblr.com/80bb5f970a8f699dcd04a17aaee94af3/tumblr_pgi8j39njs1wthh92o1_500.gif);
+}
+.gray {
+    font-family:'Kumar One Outline', cursive;
+    color:gray;
+}
+
+.purple {
+    font-family:'Kumar One Outline', cursive;
+    color:purple;
+}
+
+.black {
+    font-family:'Kumar One Outline', cursive;
+}
